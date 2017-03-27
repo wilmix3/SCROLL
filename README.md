@@ -3,10 +3,6 @@
 
  SCROLL  is  a  java/j2ee   framework  invented in  java-jdk1.8  by wilmix jemin  for  webapplication at  year  2017.
  
- 
- 
-
-SCROLL  is  a  java/j2ee   framework  invented in  java-jdk1.8  by wilmix jemin  for  webapplication at  year  2017.
 
 
 Period  of   project  :  (2014- 2017)
@@ -45,6 +41,7 @@ ADVANTAGES:
 
 A) It  is a learnable framework hence developer  had  to  focus only core  java.
 
+  B)  USED  only  with  Latest  JAVA  version  (OAK JAVA) JAVA7
   
 
 
