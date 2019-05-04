@@ -1,8 +1,7 @@
 # SCROLL
 =========
 
- SCROLL  is  a  java/j2ee   framework  invented in  java-jdk1.8  by wilmix jemin  for  webapplication at  year  2017.
- 
+  SCROLL  is  a  oakjava7   framework  invented in  OAKJAVA7  by wilmix jemin  for Mobile/ Remotewebapplication at  year  2018.
 
 
 Period  of   project  :  (2014- 2017)
@@ -49,9 +48,8 @@ C) IT has attractive syntax.
 
 D) Developer need to concenterate only on core java so it is learnable. in other framework developer had to learn more syntax.
 
-E) It cannot directly interact with Struts,Spring ,JSF but can publish the url.
 
-F) It is used with JQUERY, bootstrap, EJB, Hibernate, mybatics , since it has main function.
+
 
 
 Program-1:
