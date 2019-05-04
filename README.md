@@ -40,13 +40,9 @@ ADVANTAGES:
 
 A)  USED  only  with  Latest  JAVA  version  (OAK JAVA) JAVA7
  
- B) It is used to publish java web application like struts,spring ,hibernate, and JSF
+B) IT has attractive syntax.
 
-in mobiles.
-
-C) IT has attractive syntax.
-
-D) Developer need to concenterate only on core java so it is learnable. in other framework developer had to learn more syntax.
+c) Developer need to concenterate only on core java so it is learnable. in other framework developer had to learn more syntax.
 
 
 
