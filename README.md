@@ -19,7 +19,7 @@ SYNTAX:
 
 public class classname {
 
-public  static void  main(String args[])
+  static void  main(String args[])
 {
 
 
@@ -58,7 +58,7 @@ Program-1:
 
 public class index {
 
-public  static void  main(String args[])
+  static void  main(String args[])
 {
 
 
@@ -91,7 +91,7 @@ import java.util.regex.Matcher;
 public  class  Jquerytest
 
 {
-public  static  void  main(String args[]) throws  BiffException,IOException,Exception
+  static  void  main(String args[]) throws  BiffException,IOException,Exception
 
 {
 
