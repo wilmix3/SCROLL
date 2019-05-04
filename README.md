@@ -1,7 +1,7 @@
 # SCROLL
 =========
 
-  SCROLL  is  a  oakjava7   framework  invented in  OAKJAVA7  by wilmix jemin  for Mobile/ Remotewebapplication at  year  2018.
+  SCROLL  is  a  oakjava7   framework  invented in  OAKJAVA7  by wilmix jemin  for Mobile webapplication at  year  2018.
 
 
 Period  of   project  :  (2014- 2017)
